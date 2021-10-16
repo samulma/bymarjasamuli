@@ -1,0 +1,48 @@
+.feature {
+  background: url("../img/feature-bg.jpg");
+  background-position: 50% 94px;
+  display: block;
+  position: relative;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  padding: 100px 0;
+
+  @include tablet {
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+
+  h2 {
+    margin: 0px;
+    padding-top: 100px;
+    padding-bottom: 30px;
+    padding-left: 100px;
+    padding-right: 100px;
+    background-color: rgb(223, 223, 255);
+    text-align: center;
+    font-weight: 400;
+    opacity: 80%;
+  }
+
+  p {
+    padding-bottom: 100px;
+    padding-left: 100px;
+    padding-right: 100px;
+    background-color: rgb(223, 223, 255);
+    text-align: center;
+    color:rgb(255, 162, 22);
+    line-height: 28px;
+    opacity: 80%;
+    font-size: 30px;
+    font-weight: 600;
+  }
+
+  .btn-view-works {
+    background: #655E7A;
+    color: #fff;
+    padding: 10px 20px;
+    margin-bottom: 30px;
+  }
+}
