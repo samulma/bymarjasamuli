@@ -1,6 +1,6 @@
 +++
 bg_image = "/uploads/gr01_14_samirepo_kanapolenta.jpg"
-category = ["gloria"]
+category = ["Sami Repo", "Glorian Ruoka & Viini"]
 description = "Glorian Ruoka & Viini 01/2014"
 image = "/uploads/gr01_14_samirepo_kanapolenta.jpg"
 title = "Glorian Ruoka &Viini 01/2014 Kuvaaja: Sami Repo"
