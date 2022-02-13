@@ -1,9 +1,8 @@
 +++
-bg_image = "/uploads/gr01_14_samirepo_ayriaiskeitto.jpg"
+bg_image = "/uploads/gr01_14_samirepo_viikunajaatelo.jpg"
 category = ["Glorian Ruoka & Viini", "Sami Repo"]
 description = "Glorian Ruoka & Viini 01/2014"
-draft = true
-image = "/uploads/gr01_14_samirepo_ayriaiskeitto.jpg"
+image = "/uploads/gr01_14_samirepo_viikunajaatelo.jpg"
 title = "Glorian Ruoka & Viini 01/2014 Viikunajäätelö Kuvaaja: Sami Repo"
 [[information]]
 info = "Sami Repo"
