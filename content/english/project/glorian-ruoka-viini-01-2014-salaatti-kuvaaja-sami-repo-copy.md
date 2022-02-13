@@ -2,8 +2,7 @@
 bg_image = "/uploads/gr01_14_samirepo_salaatti.jpg"
 category = ["Glorian Ruoka & Viini", "Sami Repo"]
 description = "Glorian Ruoka & Viini 01/2014"
-draft = true
-image = ""
+image = "/uploads/gr01_14_samirepo_salaatti.jpg"
 title = "Glorian Ruoka & Viini 01/2014 Salaatti Kuvaaja: Sami Repo"
 [[information]]
 info = "Sami Repo"
